@@ -25,6 +25,7 @@ any unique String, and the `TEAM_NAME` variable must be set to your team name.*
 
 To run the application
 ```
+$ npm run build
 $ npm run start
 ```
 
